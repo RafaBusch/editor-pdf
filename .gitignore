@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Documentos do usuário (podem conter dados pessoais) e arquivos temporários do salvamento
+*.pdf
+*.pdf.tmp
+
+# Editores e sistema
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+desktop.ini
+.DS_Store
